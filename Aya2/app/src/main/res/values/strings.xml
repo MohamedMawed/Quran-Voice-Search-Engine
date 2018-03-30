@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">القرآن الكريم</string>
+    <string name="title_activity_main">HomeActivity</string>
+    <string name="tab_text_1">المرجعيات</string>
+    <string name="tab_text_2">ابحث عن آيه</string>
+    <string name="tab_text_3">سورة</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="btn_text">إضغط لتسجيل هنا آية قرآنية</string>
+    <string name="quran">سورة من القرآن</string>
+</resources>
